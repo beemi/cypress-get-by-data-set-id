@@ -6,6 +6,7 @@
   "files": [
     "src"
   ],
+  "types": "src",
   "scripts": {
     "test": "cypress open",
     "semantic-release": "semantic-release"
