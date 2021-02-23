@@ -20,8 +20,8 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^6.5.0",
-    "semantic-release": "^17.3.9"
+    "cypress": "6.5.0",
+    "semantic-release": "17.3.9"
   },
   "repository": {
     "type": "git",
