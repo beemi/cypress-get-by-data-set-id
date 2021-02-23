@@ -1,0 +1,35 @@
+{
+  "name": "cypress-get-by-data-set-id",
+  "version": "1.0.0",
+  "description": "Cypress get element by data set id",
+  "main": "src",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "cypress open",
+    "semantic-release": "semantic-release"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-custom-command"
+  ],
+  "author": {
+    "name": "Raj",
+    "email": "beemi.raja@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.5.0",
+    "semantic-release": "^17.3.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beemi/cypress-get-by-data-set-id"
+  },
+  "bugs": {
+    "url": "https://github.com/beemi/cypress-get-by-data-set-id/issues",
+    "email": "beemi.raja@gmail.com"
+  },
+  "homepage": "https://github.com/beemi/cypress-get-by-data-set-id#readme"
+}
