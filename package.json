@@ -12,7 +12,8 @@
   },
   "keywords": [
     "cypress",
-    "cypress-custom-command"
+    "cypress-custom-command",
+    "cypress-get-by-data-set-id"
   ],
   "author": {
     "name": "Raj",
