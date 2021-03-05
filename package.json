@@ -23,7 +23,7 @@
   "license": "ISC",
   "devDependencies": {
     "cypress": "6.6.0",
-    "semantic-release": "^17.3.9"
+    "semantic-release": "17.3.9"
   },
   "repository": {
     "type": "git",
